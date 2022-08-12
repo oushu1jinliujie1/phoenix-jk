@@ -1,0 +1,11 @@
+{
+    "queryName": "test",
+    "userTables": [{
+        "schemaName": "public",
+        "tableName": "TEST001"
+    }, {
+        "schemaName": "public",
+        "tableName": "TEST001"
+    }],
+    "connection": "col01"
+}
